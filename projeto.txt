@@ -1,0 +1,6 @@
+Escopo do projeto
+
+- reconhecimento facial
+- detecção facial
+- reconhecimento de humor
+- margem de autencidade
