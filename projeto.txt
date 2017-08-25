@@ -4,3 +4,5 @@ Escopo do projeto
 - detecção facial
 - reconhecimento de humor
 - margem de autencidade
+
+criar roadmap
